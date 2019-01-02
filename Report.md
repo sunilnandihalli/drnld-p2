@@ -1,7 +1,7 @@
 # Introduction
 The goal of this project is to train agents so that the are reaches to the moving target.
 
-[image1]: https://github.com/sunilnandihalli/drnld-p2/blob/master/ddpg_algo.png
+[image1]: https://github.com/sunilnandihalli/drnld-p2/blob/master/ddpg_algo.jpg
 
 # Implemention
 
