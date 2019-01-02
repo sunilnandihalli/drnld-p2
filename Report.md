@@ -1,6 +1,8 @@
 # Introduction
 The goal of this project is to train agents so that the are reaches to the moving target.
 
+[image1]: https://github.com/sunilnandihalli/drnld-p2/blob/master/ddpg_algo.png
+
 # Implemention
 
 This is a off-policy actor-critic method. Both the actors and critics are trained simultaneously. In order to stabilize the training,
@@ -9,7 +11,7 @@ in terms of architecture of the network. The weights of the network that is bein
 network to move the learning forward. The critic network is simply the action value function and the critic drives the learning of the
 policy network.
 
-
+![DDPG algorithm][image1]
 
 ## Hyperparamters
 
